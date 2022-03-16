@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HeronmoyEmon
-- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ... h3ronmoy@gmail.com
 
